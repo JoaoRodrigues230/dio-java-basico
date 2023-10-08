@@ -50,8 +50,24 @@ Vamos a alguns exemplos para ilustrar:
 
 Valor e referência: Precisamos entender que em Java tudo é objeto, logo objetos diferentes podem ter as mesmas características, mas lembrando, são objetos diferentes.
 
+### LÓGICOS
+
+Os operadores lógicos representam o recurso que nos permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões.
+
+&& Operador Lógico "E"
+|| Operador Lógico "OU"
 
 
-## Dependency Management
+## MÉTODOS
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Uma classe é definida por atributos e métodos. Já vimos que atributos são, em sua grande maioria, variáveis de diferentes tipos e valores. Os métodos, por sua vez, correspondem a funções ou sub-rotinas disponíveis dentro de nossas classes.
+
+### CRITÉRIOS DE NOMEAÇÃO DE MÉTODOS
+
+Esses critérios não são obrigatórios, mas é recomendável que sejam seguidos, pois essas convenções facilitam a vida dos programadores ao trabalharem em códigos de forma colaborativa. Ao seguir estas convenções, tornamos o código mais legível para nós e também para outras pessoas. Para métodos, os critérios são:
+
+Deve ser nomeado como verbo
+Seguir o padrão camelCase (Todas as letras minúsculas com a exceção da primeira letra da segunda palavra).
+
+
+
